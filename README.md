@@ -1,3 +1,29 @@
+## raspimouse_sim (jazzy) - 3.0.1-1
+
+The packages in the `raspimouse_sim` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy raspimouse_sim --override-release-repository-push-url git@github.com:revyos-ros/raspimouse_sim-release.git` on `Thu, 19 Dec 2024 04:18:18 -0000`
+
+These packages were released:
+- `raspimouse_fake`
+- `raspimouse_gazebo`
+- `raspimouse_sim`
+
+Version of package(s) in repository `raspimouse_sim`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_sim.git
+- release repository: https://github.com/revyos-ros/raspimouse_sim-release.git
+- rosdistro version: `3.0.1-1`
+- old version: `null`
+- new version: `3.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_sim (humble) - 2.1.0-1
 
 The packages in the `raspimouse_sim` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_sim` on `Wed, 06 Mar 2024 09:37:49 -0000`
